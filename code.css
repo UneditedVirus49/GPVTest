@@ -1,12 +1,12 @@
 .controller.custom {
-    background: url(https://raw.githubusercontent.com/UneditedVirus49/BasicLeverlessCustomCSS/refs/heads/main/MarieButtons.png);
+    background: url(https://raw.githubusercontent.com/UneditedVirus49/GPVTest/refs/heads/main/Base_1.png);
     width: 1563px;
     height: 879px;
     /*outline: 1px solid black;*/
 }
 
 .controller.custom.disconnected {
-    background: url(https://raw.githubusercontent.com/UneditedVirus49/BasicLeverlessCustomCSS/refs/heads/main/MarieButtonsoff.png)
+    background: url(https://raw.githubusercontent.com/UneditedVirus49/GPVTest/refs/heads/main/BaseDisconnect_1.png)
 }
 
 
@@ -17,20 +17,20 @@
 }
 
 .custom .dpad .face.up {
-    background: url(https://raw.githubusercontent.com/UneditedVirus49/BasicLeverlessCustomCSS/refs/heads/main/mariealsobuttonbig.png);
-    top: 559px;
-    left: 572px;
-    width: 219px;
-    height: 219px;
+    background: url(https://raw.githubusercontent.com/UneditedVirus49/GPVTest/refs/heads/main/ButtonNeutralBig_1.png), url(https://raw.githubusercontent.com/UneditedVirus49/GPVTest/refs/heads/main/ButtonNeutral_1.png);
+    top: 559px, 659px;
+    left: 572px, 659px;
+    width: 219px, 180px;
+    height: 219px, 180px;
 }
 
 .custom .dpad .face.up.pressed {
     /* fuck it */
-    opacity: 0;
+    opacity: 0, 0;
 }
 
 .custom .dpad .face.right {
-    background: url(https://raw.githubusercontent.com/UneditedVirus49/BasicLeverlessCustomCSS/refs/heads/main/mariealsobutton.png);
+    background: url(https://raw.githubusercontent.com/UneditedVirus49/GPVTest/refs/heads/main/ButtonNeutral_1.png);
     top: 227px;
     left: 506px;
     width: 180px;
@@ -38,7 +38,7 @@
 }
 
 .custom .dpad .face.down {
-    background: url(https://raw.githubusercontent.com/UneditedVirus49/BasicLeverlessCustomCSS/refs/heads/main/mariealsobutton.png);
+    background: url(https://raw.githubusercontent.com/UneditedVirus49/GPVTest/refs/heads/main/ButtonNeutral_1.png);
     top: 136px;
     left: 335px;
     width: 180px;
@@ -46,7 +46,7 @@
 }
 
 .custom .dpad .face.left {
-    background: url(https://raw.githubusercontent.com/UneditedVirus49/BasicLeverlessCustomCSS/refs/heads/main/mariealsobutton.png);
+    background: url(https://raw.githubusercontent.com/UneditedVirus49/GPVTest/refs/heads/main/ButtonNeutral_1.png);
     top: 136px;
     left: 144px;
     width: 180px;
@@ -66,7 +66,7 @@
 }
 
 .custom .abxy .button {
-    background: url(https://raw.githubusercontent.com/UneditedVirus49/BasicLeverlessCustomCSS/refs/heads/main/mariealsobutton.png);
+    background: url(https://raw.githubusercontent.com/UneditedVirus49/GPVTest/refs/heads/main/ButtonNeutral_1.png);
     width: 180px;
     height: 180px;
 }
@@ -108,7 +108,7 @@
 }
 
 .custom .trigger-button.right {
-    background: url(https://raw.githubusercontent.com/UneditedVirus49/BasicLeverlessCustomCSS/refs/heads/main/mariealsobuttonalt.png);
+    background: url(https://raw.githubusercontent.com/UneditedVirus49/GPVTest/refs/heads/main/ButtonPress_1.png);
     width: 180px;
     height: 180px;
     left: 1058px;
@@ -121,7 +121,7 @@
 }
 
 .custom .trigger-button.left {
-    background: url(https://raw.githubusercontent.com/UneditedVirus49/BasicLeverlessCustomCSS/refs/heads/main/mariealsobuttonalt.png);
+    background: url(https://raw.githubusercontent.com/UneditedVirus49/GPVTest/refs/heads/main/ButtonPress_1.png);
     width: 180px;
     height: 180px;
     left: 1249px;
@@ -134,7 +134,7 @@
 }
 
 .custom .bumper.right {
-    background: url(https://raw.githubusercontent.com/UneditedVirus49/BasicLeverlessCustomCSS/refs/heads/main/mariealsobutton.png);
+    background: url(https://raw.githubusercontent.com/UneditedVirus49/GPVTest/refs/heads/main/ButtonNeutral_1.png);
     width: 180px;
     height: 180px;
     left: 1060px;
@@ -146,7 +146,7 @@
 }
 
 .custom .bumper.left {
-    background: url(https://raw.githubusercontent.com/UneditedVirus49/BasicLeverlessCustomCSS/refs/heads/main/mariealsobutton.png);
+    background: url(https://raw.githubusercontent.com/UneditedVirus49/GPVTest/refs/heads/main/ButtonNeutral_1.png);
     width: 180px;
     height: 180px;
     left: 1255px;
