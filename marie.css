@@ -1,0 +1,158 @@
+.controller.custom {
+    background: url(https://cdn.discordapp.com/attachments/932231280928620564/1344901097273430067/MarieButtons.png?ex=67c29840&is=67c146c0&hm=0d7513073cd943f7fbda5974958c14f671c67426392cc5b2d5704c85bab63de3&);
+    width: 1563px;
+    height: 879px;
+    /*outline: 1px solid black;*/
+}
+
+.controller.custom.disconnected {
+    background: url(https://cdn.discordapp.com/attachments/932231280928620564/1344931611044745236/MarieButtonsoff.png?ex=67c2b4ab&is=67c1632b&hm=b6162ffcf77aeb91314016e9ae8ef377c3db4a03cbfea2efb1ed09e1bbb1514a&)
+}
+
+
+.custom .dpad .face, .custom .abxy .button, .custom .triggers .trigger-button, .custom .bumpers .bumper {
+    width: 180px;
+    height: 180px;
+    position: absolute;
+}
+
+.custom .dpad .face.up {
+    background: url(https://cdn.discordapp.com/attachments/932231280928620564/1344888453065867274/mariealsobuttonbig.png?ex=67c28c7a&is=67c13afa&hm=68128f73eba3ad3202cb17f138b1b5c339beeb158da1e6b0da2cc1fc8953a8cc&);
+    top: 559px;
+    left: 572px;
+    width: 219px;
+    height: 219px;
+}
+
+.custom .dpad .face.up.pressed {
+    /* fuck it */
+    opacity: 0;
+}
+
+.custom .dpad .face.right {
+    background: url(https://cdn.discordapp.com/attachments/932231280928620564/1344888452780392531/mariealsobutton.png?ex=67c28c79&is=67c13af9&hm=502a1f3fbf2af297f4ed6d6783d96b5541c7ecaeab2629293fd43e94192b3d41&);
+    top: 227px;
+    left: 506px;
+    width: 180px;
+    height: 180px;
+}
+
+.custom .dpad .face.down {
+    background: url(https://cdn.discordapp.com/attachments/932231280928620564/1344888452780392531/mariealsobutton.png?ex=67c28c79&is=67c13af9&hm=502a1f3fbf2af297f4ed6d6783d96b5541c7ecaeab2629293fd43e94192b3d41&);
+    top: 136px;
+    left: 335px;
+    width: 180px;
+    height: 180px;
+}
+
+.custom .dpad .face.left {
+    background: url(https://cdn.discordapp.com/attachments/932231280928620564/1344888452780392531/mariealsobutton.png?ex=67c28c79&is=67c13af9&hm=502a1f3fbf2af297f4ed6d6783d96b5541c7ecaeab2629293fd43e94192b3d41&);
+    top: 136px;
+    left: 144px;
+    width: 180px;
+    height: 180px;
+}
+
+.custom .dpad .face.right.pressed {
+    opacity: 0;
+}
+
+.custom .dpad .face.down.pressed {
+    opacity: 0;
+}
+
+.custom .dpad .face.left.pressed {
+    opacity: 0;
+}
+
+.custom .abxy .button {
+    background: url(https://cdn.discordapp.com/attachments/932231280928620564/1344888452780392531/mariealsobutton.png?ex=67c28c79&is=67c13af9&hm=502a1f3fbf2af297f4ed6d6783d96b5541c7ecaeab2629293fd43e94192b3d41&);
+    width: 180px;
+    height: 180px;
+}
+
+.custom .abxy .button.a {
+    left: 675px;
+    top: 345px;
+}
+
+.custom .abxy .button.a.pressed {
+    opacity: 0;
+}
+
+.custom .abxy .button.x {
+    left: 689px;
+    top: 143px;
+}
+
+.custom .abxy .button.x.pressed {
+    opacity: 0;
+}
+
+.custom .abxy .button.b {
+    left: 856px;
+    top: 268px;
+}
+
+.custom .abxy .button.b.pressed {
+    opacity: 0;
+}
+
+.custom .abxy .button.y {
+    left: 866px;
+    top: 67px;
+}
+
+.custom .abxy .button.y.pressed {
+    opacity: 0;
+}
+
+.custom .trigger-button.right {
+    background: url(https://cdn.discordapp.com/attachments/932231280928620564/1344899451906424894/mariealsobuttonalt.png?ex=67c296b8&is=67c14538&hm=0c83bc72ef6d795f2d7ce640fa94ed59851d8740af41aae5f97bed197e2928ad&);
+    width: 180px;
+    height: 180px;
+    left: 1058px;
+    top: 266px;
+    opacity: 0;
+}
+
+.custom .trigger-button.right.pressed {
+    opacity: 100;
+}
+
+.custom .trigger-button.left {
+    background: url(https://cdn.discordapp.com/attachments/932231280928620564/1344899451906424894/mariealsobuttonalt.png?ex=67c296b8&is=67c14538&hm=0c83bc72ef6d795f2d7ce640fa94ed59851d8740af41aae5f97bed197e2928ad&);
+    width: 180px;
+    height: 180px;
+    left: 1249px;
+    top: 294px;
+    opacity: 0;
+}
+
+.custom .trigger-button.left.pressed {
+    opacity: 100;
+}
+
+.custom .bumper.right {
+    background: url(https://cdn.discordapp.com/attachments/932231280928620564/1344888452780392531/mariealsobutton.png?ex=67c28c79&is=67c13af9&hm=502a1f3fbf2af297f4ed6d6783d96b5541c7ecaeab2629293fd43e94192b3d41&);
+    width: 180px;
+    height: 180px;
+    left: 1060px;
+    top: 72px;
+}
+
+.custom .bumper.right.pressed {
+    opacity: 0;
+}
+
+.custom .bumper.left {
+    background: url(https://cdn.discordapp.com/attachments/932231280928620564/1344888452780392531/mariealsobutton.png?ex=67c28c79&is=67c13af9&hm=502a1f3fbf2af297f4ed6d6783d96b5541c7ecaeab2629293fd43e94192b3d41&);
+    width: 180px;
+    height: 180px;
+    left: 1255px;
+    top: 95px;
+}
+
+.custom .bumper.left.pressed {
+    opacity: 0;
+}
