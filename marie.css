@@ -1,12 +1,12 @@
 .controller.custom {
-    background: url(https://cdn.discordapp.com/attachments/932231280928620564/1344901097273430067/MarieButtons.png?ex=67c29840&is=67c146c0&hm=0d7513073cd943f7fbda5974958c14f671c67426392cc5b2d5704c85bab63de3&);
+    background: url(https://raw.githubusercontent.com/UneditedVirus49/BasicLeverlessCustomCSS/refs/heads/main/MarieButtons.png);
     width: 1563px;
     height: 879px;
     /*outline: 1px solid black;*/
 }
 
 .controller.custom.disconnected {
-    background: url(https://cdn.discordapp.com/attachments/932231280928620564/1344931611044745236/MarieButtonsoff.png?ex=67c2b4ab&is=67c1632b&hm=b6162ffcf77aeb91314016e9ae8ef377c3db4a03cbfea2efb1ed09e1bbb1514a&)
+    background: url(https://raw.githubusercontent.com/UneditedVirus49/BasicLeverlessCustomCSS/refs/heads/main/MarieButtonsoff.png)
 }
 
 
@@ -16,8 +16,8 @@
     position: absolute;
 }
 
-.custom .dpad .face.up {
-    background: url(https://cdn.discordapp.com/attachments/932231280928620564/1344888453065867274/mariealsobuttonbig.png?ex=67c28c7a&is=67c13afa&hm=68128f73eba3ad3202cb17f138b1b5c339beeb158da1e6b0da2cc1fc8953a8cc&);
+XINPUT_GAMEPAD_DPAD_UP {
+    background: url(https://raw.githubusercontent.com/UneditedVirus49/BasicLeverlessCustomCSS/refs/heads/main/mariealsobuttonbig.png);
     top: 559px;
     left: 572px;
     width: 219px;
@@ -30,7 +30,7 @@
 }
 
 .custom .dpad .face.right {
-    background: url(https://cdn.discordapp.com/attachments/932231280928620564/1344888452780392531/mariealsobutton.png?ex=67c28c79&is=67c13af9&hm=502a1f3fbf2af297f4ed6d6783d96b5541c7ecaeab2629293fd43e94192b3d41&);
+    background: url(https://raw.githubusercontent.com/UneditedVirus49/BasicLeverlessCustomCSS/refs/heads/main/mariealsobutton.png);
     top: 227px;
     left: 506px;
     width: 180px;
@@ -38,7 +38,7 @@
 }
 
 .custom .dpad .face.down {
-    background: url(https://cdn.discordapp.com/attachments/932231280928620564/1344888452780392531/mariealsobutton.png?ex=67c28c79&is=67c13af9&hm=502a1f3fbf2af297f4ed6d6783d96b5541c7ecaeab2629293fd43e94192b3d41&);
+    background: url(https://raw.githubusercontent.com/UneditedVirus49/BasicLeverlessCustomCSS/refs/heads/main/mariealsobutton.png);
     top: 136px;
     left: 335px;
     width: 180px;
@@ -46,7 +46,7 @@
 }
 
 .custom .dpad .face.left {
-    background: url(https://cdn.discordapp.com/attachments/932231280928620564/1344888452780392531/mariealsobutton.png?ex=67c28c79&is=67c13af9&hm=502a1f3fbf2af297f4ed6d6783d96b5541c7ecaeab2629293fd43e94192b3d41&);
+    background: url(https://raw.githubusercontent.com/UneditedVirus49/BasicLeverlessCustomCSS/refs/heads/main/mariealsobutton.png);
     top: 136px;
     left: 144px;
     width: 180px;
@@ -66,7 +66,7 @@
 }
 
 .custom .abxy .button {
-    background: url(https://cdn.discordapp.com/attachments/932231280928620564/1344888452780392531/mariealsobutton.png?ex=67c28c79&is=67c13af9&hm=502a1f3fbf2af297f4ed6d6783d96b5541c7ecaeab2629293fd43e94192b3d41&);
+    background: url(https://raw.githubusercontent.com/UneditedVirus49/BasicLeverlessCustomCSS/refs/heads/main/mariealsobutton.png);
     width: 180px;
     height: 180px;
 }
@@ -108,7 +108,7 @@
 }
 
 .custom .trigger-button.right {
-    background: url(https://cdn.discordapp.com/attachments/932231280928620564/1344899451906424894/mariealsobuttonalt.png?ex=67c296b8&is=67c14538&hm=0c83bc72ef6d795f2d7ce640fa94ed59851d8740af41aae5f97bed197e2928ad&);
+    background: url(https://raw.githubusercontent.com/UneditedVirus49/BasicLeverlessCustomCSS/refs/heads/main/mariealsobuttonalt.png);
     width: 180px;
     height: 180px;
     left: 1058px;
@@ -121,7 +121,7 @@
 }
 
 .custom .trigger-button.left {
-    background: url(https://cdn.discordapp.com/attachments/932231280928620564/1344899451906424894/mariealsobuttonalt.png?ex=67c296b8&is=67c14538&hm=0c83bc72ef6d795f2d7ce640fa94ed59851d8740af41aae5f97bed197e2928ad&);
+    background: url(https://raw.githubusercontent.com/UneditedVirus49/BasicLeverlessCustomCSS/refs/heads/main/mariealsobuttonalt.png);
     width: 180px;
     height: 180px;
     left: 1249px;
@@ -134,7 +134,7 @@
 }
 
 .custom .bumper.right {
-    background: url(https://cdn.discordapp.com/attachments/932231280928620564/1344888452780392531/mariealsobutton.png?ex=67c28c79&is=67c13af9&hm=502a1f3fbf2af297f4ed6d6783d96b5541c7ecaeab2629293fd43e94192b3d41&);
+    background: url(https://raw.githubusercontent.com/UneditedVirus49/BasicLeverlessCustomCSS/refs/heads/main/mariealsobutton.png);
     width: 180px;
     height: 180px;
     left: 1060px;
@@ -146,7 +146,7 @@
 }
 
 .custom .bumper.left {
-    background: url(https://cdn.discordapp.com/attachments/932231280928620564/1344888452780392531/mariealsobutton.png?ex=67c28c79&is=67c13af9&hm=502a1f3fbf2af297f4ed6d6783d96b5541c7ecaeab2629293fd43e94192b3d41&);
+    background: url(https://raw.githubusercontent.com/UneditedVirus49/BasicLeverlessCustomCSS/refs/heads/main/mariealsobutton.png);
     width: 180px;
     height: 180px;
     left: 1255px;
