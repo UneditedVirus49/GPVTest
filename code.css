@@ -17,11 +17,11 @@
 }
 
 .custom .dpad .face.up {
-    background: url(https://raw.githubusercontent.com/UneditedVirus49/GPVTest/refs/heads/main/ButtonNeutralBig_1.png), url(https://raw.githubusercontent.com/UneditedVirus49/GPVTest/refs/heads/main/ButtonNeutral_1.png);
-    top: 559px, 459px;
-    left: 572px, 459px;
-    width: 219px, 180px;
-    height: 219px, 180px;
+    background: url(https://raw.githubusercontent.com/UneditedVirus49/GPVTest/refs/heads/main/ButtonUp_1.png);
+    top: -48px;
+    left: 411px;
+    width: 380px;
+    height: 826px;
 }
 
 .custom .dpad .face.up.pressed {
