@@ -18,15 +18,15 @@
 
 .custom .dpad .face.up {
     background: url(https://raw.githubusercontent.com/UneditedVirus49/GPVTest/refs/heads/main/ButtonNeutralBig_1.png), url(https://raw.githubusercontent.com/UneditedVirus49/GPVTest/refs/heads/main/ButtonNeutral_1.png);
-    top: 559px, 659px;
-    left: 572px, 659px;
+    top: 559px, 459px;
+    left: 572px, 459px;
     width: 219px, 180px;
     height: 219px, 180px;
 }
 
 .custom .dpad .face.up.pressed {
     /* fuck it */
-    opacity: 0, 0;
+    opacity: 0;
 }
 
 .custom .dpad .face.right {
