@@ -16,7 +16,7 @@
     position: absolute;
 }
 
-.XINPUT_GAMEPAD_DPAD_UP {
+.custom .dpad .face.up {
     background: url(https://raw.githubusercontent.com/UneditedVirus49/BasicLeverlessCustomCSS/refs/heads/main/mariealsobuttonbig.png);
     top: 559px;
     left: 572px;
